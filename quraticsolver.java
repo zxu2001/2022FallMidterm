@@ -1,4 +1,3 @@
-package quadraticsolution;
 import java.lang.*;
 public class quraticsolver {
 
@@ -7,7 +6,7 @@ public class quraticsolver {
 		int a = 1;
 		int b = -3;
 		int c = 2;
-		if (b*b - 4*a*c <0) 
+		if (b*b - 4*a*c <0)
 			System.out.println("This equation " + a + "x^2 + " + b +"x + " + c +" has no solution");
 		else
 			{
